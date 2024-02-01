@@ -8,10 +8,6 @@
 <a href="https://www.instagram.com/b_hyunnie/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
 
-<h3 align="center">
-  Hello Everyone 👋 
-</h3>
-
 ## 📝 Who Am I ?
 안녕하세요 웹 백엔드 개발자를 희망하며 끊임 없이 나아가는 안병현입니다 <br>
 - 🧐 내용에 대해 깊이 공부 하는 것을 좋아합니다.
