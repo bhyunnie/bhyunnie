@@ -16,6 +16,7 @@
 안녕하세요 웹 백엔드 개발자를 희망하며 끊임 없이 나아가는 안병현입니다 <br>
 - 🧐 내용에 대해 깊이 공부 하는 것을 좋아합니다.
 - 🌊 더 넓은 영역에 대해 관심을 가지고 있습니다.
+- 🎁 다양한 세미나에 참석하면서 관심사에 대해 다른사람들의 견해를 배우고 있습니다.
 <br>
 
 ## ✍️ Language
@@ -43,19 +44,29 @@
     <image src="https://github-readme-stats.vercel.app/api/wakatime?username=bhyunnie&layout=compact&range=last_7_days&theme=dark">
   </p>
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=bhyunnie&show_icons=true&theme=great-gatsby">
-      
-📚 Books
-1. 클린 아키텍쳐 ( 23/05 ~ 23/07 )
-2. 
-3. 
 
-Hello, This is Bhyunnie
+🎁 Seminar
+- Kakao Tech Meet 2023 3th
+- Woo-ah-con / Backend Section 2023
 
 📚 Books
+( 책이름 - 읽기를 마무리 한 일자 )
+첫 취업인 23.05 이전의 독서록은 제외하였습니다.
 
-### 2023
-+ 클린 아키텍쳐 (23/05 ~ 23/07) 블로그 주소 적자
-+ 친절한 SQL 튜닝 (23/08 ~ 
-+ 자바의 정석 (23/06 ~ 
-+ 만들면서 배우는 클린 아키텍쳐 (23/07 ~
+1. Clean Architecture - 23.07
+2. 친절한 SQL 튜닝 - 23.11
+3. 육각형 개발자 - 23.12
+4. 요즘 우아한 개발 - 24.
+5. 나는 LINE 개발자입니다. - 24.
+6. 자바 알고리즘 인터뷰 - 24.
+7. 스프링부트 3 백엔드 개발자 되기 - 24.
+8. 핵심 문법과 예제로 배우는 코틀린 - 24.
+9. RxJava 리액티브 프로그래밍 - 24.
+10. 면접을 위한 CS 전공지식 노트 - 24.
+11. Clean Code - 24.
+12. 만들면서 배우는 클린아키텍처 - 24.
+13. DDD 도메인 주도 개발로 프로그래밍하기 - 24.
 
+## 🚶‍♂️ Motto
+<h3 align="center">발명될 수 있는 것은 모두 발명되었다.<br>- Charles H. Duell, 1899 -</h3>
+<h5 align="center">2024년 현재에도 새로운 것들이 발명되고 있습니다.<br>기존의 것보다 더 나은 방법이 있을지 항상 고민하고<br>개선하려 노력하겠습니다</h5>
