@@ -17,7 +17,7 @@
 
 ## ✍️ Language
 - 제가 자주 쓰는 언어는 Kotlin Java Javascript Typescript 입니다 <br>
-- 저가 공부해서 사용 해본 언어는 Kotlin Java Javascript Typescript Solidity 입니다 <br>
+- 저가 공부해서 사용 해본 언어는 Kotlin Java Javascript Typescript Solidity LuaScript 입니다 <br>
 - 저가 현재 좀 더 학습 중인 언어는 Kotlin 입니다 <br><br>
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md 통계 -->
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhyunnie&layout=compact">
