@@ -1,8 +1,4 @@
 <p align="center">
-<img width=300 src="https://user-images.githubusercontent.com/68590947/224503055-a355c16e-4efd-4c04-8e73-532adf4da551.png">
-</p>
-
-<p align="center">
 <a href="https://behoney.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ffda42?style=for-the-badge&logo=Tistory&logoColor=black"></a>
 <a href="https://skinny-sulfur-203.notion.site/b49bc1b571064ff8ac255789c6ff6037"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"></a>
 <a href="https://www.instagram.com/b_hyunnie/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
