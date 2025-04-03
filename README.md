@@ -10,12 +10,15 @@
 - ☺️ 이력서 : <a href="https://bhyunnie.notion.site/1bda6fa576c3801aa532c3a2134bc7e1?pvs=4"><img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"></a><br>
 - 🖼️ 포트폴리오 : <a href="https://www.notion.so/bhyunnie/1b7a6fa576c380a28e6af006645cad2f"><img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=Notion&logoColor=black"></a><br>
   
-### 🔖 Stack
+### 🔖 Stacks
 - **Main :** Kotlin, Java, SpringBoot, PostgreSQL, Redis, Kafka, Junit, Docker, AWS
 - **Sub :** Javascript, Node.js, React, MySQL, KoTest, MVC, K6
 
+### ✍️ New Posts
+- <a href="https://behoney.tistory.com/84">📕 좋은 패키지 구조를 찾아서 (with. Port And Adapter)</a><br>
+- <a href="https://behoney.tistory.com/83">⭐ 우당탕탕 헥사고날 아키텍처 적용하기</a><br>
 
-### 📕 Study
+### 💻 Study
 <div>
 <img height=165 src="https://github-readme-stats.vercel.app/api?username=bhyunnie&show_icons=true&theme=great-gatsby">
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md 통계 -->
