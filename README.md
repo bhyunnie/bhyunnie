@@ -1,6 +1,6 @@
 ### 📝 Who Am I ?
-그냥 개발자 안병현입니다.
-- Kotlin, Spring Boot, RDB, AWS, Kafka
+- 그냥 개발자 안병현입니다.
+- Kotlin, Spring Boot, RDB, AWS, Kafka 를 사용해 먹고삽니다.
 
 ### 📚 Skills
 - Server: Spring Boot, Express
