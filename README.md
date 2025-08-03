@@ -1,5 +1,5 @@
 ### 📝 Who Am I ?
-2년차 BE 안병현입니다.
+그냥 개발자 안병현입니다.
 - Kotlin, Spring Boot, RDB, AWS, Kafka
 
 ### 📚 Skills
