@@ -9,7 +9,7 @@
 # 🔖 기술 스택
 - Language: Kotlin(1.9 ~ ), Java(8, 17, 21), JavaScript(ES5, ES6)
 - Framework: Spring Boot 3.x
-- AI-tool: Claude Code, Gemini
+- LLM: Codex , Claude Code, Qwen, Kimi
 - Database: MySQL, PostgresSQL
 - ORM: JPA, QueryDSL
 - Monitoring: Whatap, Sentry
