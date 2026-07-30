@@ -11,7 +11,6 @@
 - Framework: Spring Boot 3.x
 - LLM: Codex , Claude Code, Qwen, Kimi
 - Database: MySQL, PostgresSQL
-- ORM: JPA, QueryDSL
 - Monitoring: Whatap, Sentry
 - Testing: JUnit, Mockito
 - CI/CD: Github Actions (self-hosted, github actions runner)
