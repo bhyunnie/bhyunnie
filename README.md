@@ -10,12 +10,11 @@
 - Language: Kotlin(1.9 ~ ), Java(8 ~ 21), JavaScript(ES5 ~ ES6)
 - Framework: Spring Boot 3.x
 - LLM: Codex, Claude Code
-- AI-Agent: Hermes Agent (Qwen 3.6 35b, Local)
 - Database: MySQL, PostgresSQL
 - Monitoring: Whatap, Sentry
-- Testing: JUnit, Mockito
+- Testing: Kotest, JUnit
 - CI/CD: Github Actions
-- Cloud: AWS, NCP, GCP
+- Cloud: AWS, NCP
 
 # ☎️ 연락처
 - Email: dev.bhyunnie@gmail.com
